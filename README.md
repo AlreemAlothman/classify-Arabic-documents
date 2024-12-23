@@ -2,7 +2,8 @@
 NLP assignment
 
 ## Corpus
-#### "The TALAA corpus is a voluminous general Arabic corpus, built from daily Arabic newspaper websites. The corpus is a collection of more than 14 million words with 15,891,729 tokens contained in 57,827 different articles." [[1]](https://www.researchgate.net/publication/273632012_Building_TALAA_a_Free_General_and_Categorized_Arabic_Corpus)
+#### "The TALAA corpus is a large-scale Arabic corpus developed to address the scarcity of freely accessible, diverse, and voluminous Arabic language resources for Arabic Natural Language Processing (ANLP). The corpus was created by collecting textual data from daily Arabic newspaper websites, resulting in a rich and extensive dataset.
+هي مجموعة كبيرة من النصوص العربية تم تطويرها لمعالجة ندرة الموارد اللغوية العربية المتاحة بحرية والمتنوعة والكبيرة لمعالجة اللغة العربية الطبيعية (ANLP). تم إنشاء المجموعة من خلال جمع البيانات النصية من مواقع الصحف العربية اليومية، مما أدى إلى مجموعة بيانات غنية وواسعة النطاق." [[1]](https://www.researchgate.net/publication/273632012_Building_TALAA_a_Free_General_and_Categorized_Arabic_Corpus)
 
 
 #### Description of the TALAA corpus [[1]](https://www.researchgate.net/publication/273632012_Building_TALAA_a_Free_General_and_Categorized_Arabic_Corpus) :
