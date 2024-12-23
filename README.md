@@ -31,3 +31,5 @@ NLP assignment
 
 
 ---
+## Credits
+- Building TALAA, a Free General and Categorized Arabic Corpus https://www.researchgate.net/publication/273632012_Building_TALAA_a_Free_General_and_Categorized_Arabic_Corpus
